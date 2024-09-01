@@ -1,5 +1,3 @@
-Here's a template you can use for your GitHub project:
-
 ---
 
 # Entity Cleaner Plugin
