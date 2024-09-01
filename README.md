@@ -1,4 +1,5 @@
 ---
+
 # Entity Cleaner Plugin
 
 ### Overview
