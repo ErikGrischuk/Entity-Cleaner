@@ -8,6 +8,11 @@ Here's a template you can use for your GitHub project:
 
 **Entity Cleaner** is a plugin designed for Rust game servers that allows administrators to remove various entities from the game world. The plugin is particularly useful for maintaining server performance by cleaning up unused or unnecessary objects while allowing for the exclusion of specific Loot Containers from deletion.
 
+### Permissions
+
+- **`entitycleaner.use`**: Grants the user permission to execute the `/killall` command to remove entities from the server.
+
+This permission is required to access the plugin's features. Server admins can assign this permission to trusted users who need control over entity cleanup.
 ### Features
 
 - **Full Server Cleanup**: Remove all specified entities across the entire map with a single command.
